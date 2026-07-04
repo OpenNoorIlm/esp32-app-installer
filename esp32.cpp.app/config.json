@@ -1,0 +1,8 @@
+{
+  "name": "esp32-cpp",
+  "version": "0.1.0",
+  "license": "MIT",
+  "type": "native+lua-app",
+  "description": "A from-scratch, int8-quantized transformer inference engine for ESP32 -- a llama.cpp-style runtime scaled down for microcontrollers. Runs tiny (typically under ~15M parameter) transformer models loaded from a compiled-in C array or from LittleFS/SD. Requires the native engine in firmware/ to be compiled into your sketch first -- see firmware/INTEGRATION.md. main.lua is the part that installs and runs normally through app-installer once the native piece is flashed.",
+  "author": "you"
+}
