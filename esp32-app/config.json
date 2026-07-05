@@ -2,9 +2,9 @@
   "name": "esp32-app",
   "version": "1.0.0",
   "description": "Control panel CLIENT GUI for esp32-ssh -- file browser, wifi info, installed/available apps, background job control, and a raw terminal. The 'open a computer' view of the ESP32.",
-  "license": "MIT",
   "entry": "main.py",
   "python": "3.10",
+  "license": "MIT",
   "uses_packages": ["shell"],
   "requirements": ["PyQt5"]
 }
