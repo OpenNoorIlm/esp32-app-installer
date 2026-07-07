@@ -5,6 +5,7 @@
   "entry": "main.py",
   "python": "3.10",
   "license": "MIT",
+  "type": "gui-app",
   "uses_packages": ["shell"],
   "requirements": ["PyQt5"]
 }
